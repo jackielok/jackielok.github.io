@@ -1,0 +1,33 @@
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+<nav class="menu browse by-year text-center" aria-label="year">
+  <strong aria-hidden="true">Jump to:</strong>
+  {% for year in postsByYear %}
+  <a href="#{{ year.name | slugify }}">{{ year.name }}</a> |
+  {% endfor %}
+</nav>
+
+&nbsp;
+
+{% for year in postsByYear %}
+<h4 id="{{ year.name | slugify }}">{{ year.name }}</h4>
+<ul aria-label="posts from {{ year.name }}">
+  {% for post in year.items %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <span><small>
+    on <a href="/archives/#{{ post.date | date:"%Y" | slugify }}">{{ post.date | date_to_string }}</a>  <!-- year of post -->
+    </small></span>
+    <span><small>in
+      {% for cat in post.categories %}
+        <a href="/archives/categories/#{{ cat | slugify }}">{% raw %}{{% endraw %}{{ cat }}{% raw %}}{% endraw %}</a>
+      {% endfor %}
+    </small></span>
+    <span><small>| Tags:
+      {% for tag in post.tags %}
+        <a href="/archives/tags/#{{ tag | slugify }}">[{{ tag }}]</a>
+      {% endfor %}
+    </small></span>
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}

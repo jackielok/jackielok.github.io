@@ -1,0 +1,18 @@
+// Define style for image floating on the right with text wrapping
+.TextWrapRight {
+  display: block;
+  margin: 10px;
+  clear: both;
+  float: right;
+}
+
+// Define box around text
+.Boxed {
+  display: block;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  padding: 0.5em;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}

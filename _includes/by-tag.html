@@ -1,0 +1,86 @@
+{% comment %}
+=======================
+Extract and sort all the tags from posts.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+	{% assign ttags = post.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% comment %}
+
+=======================
+Some cleaning: remove duplicated tags and invalid tags (e.g. blank tags).
+=======================
+{% endcomment %}
+{% assign alltags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if alltags == "" %}
+			{% assign alltags = tag | split:'|' %}
+		{% endif %}
+		{% unless alltags contains tag %}
+			{% assign alltags = alltags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+{% comment %}
+=======================
+Sort tags in a case-insensitive way
+=======================
+{% endcomment %}
+{% assign lowertags = alltags | join:',' | downcase | split:',' | sort %}
+{% assign tags = "" %}
+{% for lowertag in lowertags %}
+  {% if lowertag != "" %}
+    {% for tag in alltags %}
+      {% assign downtag = tag | downcase %}
+      {% if downtag == lowertag %}
+        {% if tags != "" %}
+          {% assign tags = tags | append:',' %}
+        {% endif %}
+        {% assign tags = tags | append:tag %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+{% assign tags = tags | split:',' %}
+
+<nav aria-label="tag">
+  <strong aria-hidden="true">Jump to:</strong>
+  {% for tag in tags %}
+  <a href="#{{ tag | slugify }}">[{{ tag }}]</a> |
+  {% endfor %}
+</nav>
+
+&nbsp;
+
+{% for tag in tags %}
+<p id="{{ tag | slugify }}">{{ tag }}</p>
+<ul aria-label="posts tagged by {{ cat }}">
+  {% for post in site.posts %}
+  {% if post.tags contains tag %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <span><small>
+    on <a href="/archives/#{{ post.date | date:"%Y" | slugify }}">{{ post.date | date_to_string }}</a>  <!-- year of post -->
+    </small></span>
+    <span><small>in
+      {% for cat in post.categories %}
+        <a href="/archives/categories/#{{ cat | slugify }}">{% raw %}{{% endraw %}{{ cat }}{% raw %}}{% endraw %}</a>
+      {% endfor %}
+    </small></span>
+    <span><small>| Tags:
+      {% for tag in post.tags %}
+        <a href="/archives/tags/#{{ tag | slugify }}">[{{ tag }}]</a>
+      {% endfor %}
+    </small></span>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+{% endfor %}
