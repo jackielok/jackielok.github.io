@@ -35,6 +35,9 @@ $$
 $$
 
 Pretty neat!
+$$
+y = mx + b
+$$
 
 What about matrices? (Note that the LaTeX `\\` new line might need to be doubled depending on the content-management systems -- we are passing through many layers! For example, what we have here works with `\\` as per usual. However, to escape the dollar sign `\$` not within the LaTeX environment, we actually need to write `\\$`!  
 
