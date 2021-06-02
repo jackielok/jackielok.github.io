@@ -3,7 +3,7 @@
 # https://talk.jekyllrb.com/t/displaying-archives-design-ideas/2330/4 
 # https://www.elementalidad.com/archives
 
-layout: page
+layout: default
 title: Archives
 permalink: /archives/
 ---

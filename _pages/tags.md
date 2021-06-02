@@ -3,7 +3,7 @@
 # https://talk.jekyllrb.com/t/displaying-archives-design-ideas/2330/4 
 # https://www.elementalidad.com/archives
 
-layout: page
+layout: default
 title: Archives
 permalink: /archives/tags/
 ---
@@ -14,7 +14,6 @@ permalink: /archives/tags/
   <a href="/archives/categories/">category</a> |
   <a href="/archives/tags/" class="active" aria-current="page">(tag)</a> |
 </nav>
-
 
 {% include by-tag.html %}
 

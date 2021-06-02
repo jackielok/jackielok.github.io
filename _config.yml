@@ -22,6 +22,7 @@ title: Jackie Lok
 
 author: Jackie Lok
 # email: jackie.lok@gmail.com
+email: test_email@email.com 
 
 # twitter_username: jekyllrb
 # github_username: jekyll
@@ -29,10 +30,10 @@ author: Jackie Lok
 # linkedin_username: jekyll
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog on any interesting pieces of mathematics encountered.
+    Personal blog on encounters with interesting pieces of mathematics.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jackielok.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 include: 
   - _pages
