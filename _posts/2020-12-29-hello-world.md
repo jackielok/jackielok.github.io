@@ -34,7 +34,7 @@ $$
 \end{align}
 $$
 
-Pretty neat!
+Pretty neat! For displayed equations, a blank line needs to be left even if `$$ ... $$`` is used:
 $$
 y = mx + b
 $$
@@ -64,7 +64,6 @@ For a complex number $z \in \mathbb{C}$, we can express it in polar form as $z =
 $$
 e^{i\theta} = \cos(i\theta) + i \sin(i\theta) , \quad \theta \in \mathbb{R} .
 $$
-
 </div>
 
 Nice! We just have to be careful if we want to say \\$10, \\$50, \\$100 instead (have to escape dollars now, and escape it doubly so with `\\`, since we are passing through two parsers!)

@@ -59,7 +59,7 @@ Sort categories in a case-insensitive way
 &nbsp;
 
 {% for cat in cats %}
-<h4 id="{{ cat | slugify }}">{{ cat }}</h4>
+<p id="{{ cat | slugify }}">{{ cat }}</p>
 <ul aria-label="posts classified under {{ cat }}">
   {% for post in site.posts %}
   {% if post.categories contains cat %}

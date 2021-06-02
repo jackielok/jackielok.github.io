@@ -9,7 +9,7 @@
 &nbsp;
 
 {% for year in postsByYear %}
-<h4 id="{{ year.name | slugify }}">{{ year.name }}</h4>
+<p id="{{ year.name | slugify }}">{{ year.name }}</p>
 <ul aria-label="posts from {{ year.name }}">
   {% for post in year.items %}
   <li>
