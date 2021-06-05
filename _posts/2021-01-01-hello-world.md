@@ -6,7 +6,7 @@ categories: [blog]
 tags:       [jekyll, maths, LaTeX]
 ---
 
-Hello World! This blog allows posts to be written using [Markdown](https://www.markdownguide.org/) and HTML/CSS, with support for maths typesetting using LaTeX + MathJax. For example, here is an inline formula formula: $y = ax^2 + bx + c$. We can present displayed equations in their own section:
+Hello World! This blog allows posts to be written using [Markdown](https://www.markdownguide.org/) (for which this [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is very useful) and HTML/CSS, with support for maths typesetting using LaTeX + MathJax. For example, here is an inline formula formula: $y = ax^2 + bx + c$. We can also present displayed equations in their own (Markdown) section:
 
 ---
 
@@ -35,7 +35,7 @@ $$
 
 Pretty neat! Note that the symbol to be used to for LaTeX commands is `$$ ... $$` (or `$ ... $` for inline formulas). Furthermore, a blank line needs to be left if a displayed formula is intended.
 
-Note that with LaTeX support, some special characters have to be escaped (within the LaTeX environment, and also sometimes when writing normal text!) For example, a \$5 meal has to be written `a \$5 meal`, since `$` is the special character for inline LaTex `$ ... $`. As an additional note, the LaTeX `\\` new line might need to be doubled depending on the content-management systems -- we are passing through many layers of parsers!
+Note that with LaTeX support, some special characters have to be escaped (within the LaTeX environment, and also sometimes when writing normal text!) For example, a \$5 meal has to be written `a \$5 meal`, since `$` is the special character for inline LaTex `$ ... $`. As an additional note, the escaping character `\` might have to be doubled (e.g. `\\` is the special new line expression in LaTeX) depending on the content-management systems -- we are passing through many layers of parsers! So if something breaks or does not seem to work as intended, this might be the reason.
 
 Back to the features: we can also do matrices!
 
@@ -68,10 +68,31 @@ $$
 
 Nice! We just have to be careful if we want to say \\$10, \\$50, \\$100 instead (have to escape dollars now, and escape it doubly so with `\\`, since we are passing through two parsers!)
 
-A final example that the HTML element `<br>` can produce line breaks.
+An example that the HTML element `<br>` can produce line breaks:
 
 <div class="Boxed">
 Shopping for apples, and then,
 <br>
 after a break, for bananas.
 </div>
+
+<!-- 
+Example of quick implementation of CSS styles for one-time use
+<style>
+  .TextWrapRight {
+  display: block;
+  margin: 10px;
+  clear: both;
+  float: right;
+}
+</style>
+-->
+
+<figure class="TextWrapRight">
+<img src="/assets/images/Duck.JPG" alt="A picture of a duck" width="150" />
+<figcaption align="center"><i>A picture of a duck.</i></figcaption>
+</figure>
+
+Another cool thing is that images and pictures can also be included, using HTML and CSS. For example, this `<img>` of a duck has been right-aligned by using a custom CSS style `.TextWrapRight` inside an HTML `<figure> ... </figure>` element.
+
+
