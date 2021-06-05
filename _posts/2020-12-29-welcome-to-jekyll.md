@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Welcome to Jekyll"
-date:       2020-12-29 22:40:10 +1100
+layout: post
+title: "Welcome to Jekyll"
+date: 2020-12-29 22:40:10 +1100
 categories: [blog]
-tags:       [jekyll]
+tags: [jekyll]
 excerpt_separator: <!--more-->
 ---
 

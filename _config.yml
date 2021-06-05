@@ -18,14 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jackie Lok
+title: Home
 
 author: Jackie Lok
 # email: myemail@email.com
-
-github_username: jackielok
-# stackoverflow_username: "11111"
-# linkedin_username: jekyll
+# github_username: github
 
 description: >- # this means to ignore newlines until "baseurl:"
     Personal blog on encounters with interesting things, mathematics et al.

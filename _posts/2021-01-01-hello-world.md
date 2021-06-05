@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Hello World!"
-date:       2021-01-01 23:00:00 +1100
+layout: post
+title: "Hello World!"
+date: 2021-06-06 23:00:00 +1100
 categories: [blog]
-tags:       [jekyll, maths, LaTeX]
+tags: [jekyll, maths, LaTeX]
 ---
 
 Hello World! This blog allows posts to be written using [Markdown](https://www.markdownguide.org/) (for which this [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is very useful) and HTML/CSS, with support for maths typesetting using LaTeX + MathJax. For example, here is an inline formula formula: $y = ax^2 + bx + c$. We can also present displayed equations in their own (Markdown) section:
