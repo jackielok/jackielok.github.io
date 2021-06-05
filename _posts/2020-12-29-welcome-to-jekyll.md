@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Jekyll"
 date: 2020-12-29 22:40:10 +1100
-categories: [blog]
+categories: [development]
 tags: [jekyll]
 excerpt_separator: <!--more-->
 ---

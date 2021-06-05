@@ -2,7 +2,7 @@
 layout: post
 title: "Draft posts"
 date: 2020-12-12 12:00:00 +1000
-categories: [blog, draft, test]
+categories: [development, draft, test]
 tags: [jekyll]
 ---
 

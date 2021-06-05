@@ -16,3 +16,23 @@
   margin-bottom: 10px;
   margin-top: 10px;
 }
+
+// CSS for side-by-side images
+.column3 {
+  float: left;
+  width: 32.5%;
+  padding: 0.4%;
+}
+
+.column2 {
+  float: left;
+  width: 49%;
+  padding: 0.5%;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
