@@ -22,15 +22,14 @@ title: Jackie Lok
 
 author: Jackie Lok
 # email: jackie.lok@gmail.com
-email: test_email@email.com 
 
 # twitter_username: jekyllrb
-# github_username: jekyll
+github_username: jackielok
 # stackoverflow_username: "11111"
 # linkedin_username: jekyll
 
 description: >- # this means to ignore newlines until "baseurl:"
-    Personal blog on encounters with interesting pieces of mathematics.
+    Personal blog on encounters with interesting things, mathematics et al.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jackielok.github.io" # the base hostname & protocol for your site, e.g. http://example.com
