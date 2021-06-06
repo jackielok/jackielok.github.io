@@ -8,4 +8,4 @@ title: Hello!
 <!-- <figcaption align="center"><i>Credits: sample caption.</i></figcaption> -->
 </figure>
 
-Welcome to the home page of my blog!
+Welcome to the home page of my [blog]({% link blog/index.html %})!
