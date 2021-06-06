@@ -4,6 +4,7 @@ title: "Posting photos"
 date: 2021-06-05 12:00:00 +1000
 categories: [development, photos]
 tags: [jekyll]
+excerpt_separator: <!--more-->
 ---
 
 This post will show of the simplest ways, in my opinion, to include photos in a post. There are more sophisticated methods to create an image gallery on Jekyll, but these solutions seem require much more hacking around to get everything (plugins, HTML, CSS, Javascript, ...) to work properly (and then things always change!). So instead, we will have a look at this rudimentary but clean approach.
@@ -28,6 +29,8 @@ This post will show of the simplest ways, in my opinion, to include photos in a 
         <figcaption style="text-align:center"><i>Benjamin Franklin enjoying the snow</i></figcaption>
     </div>
 </div>
+
+<!--more-->
 
 &nbsp;
 
