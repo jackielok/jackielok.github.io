@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Hello!
 ---
 
@@ -8,4 +8,4 @@ title: Hello!
 <!-- <figcaption align="center"><i>Credits: sample caption.</i></figcaption> -->
 </figure>
 
-Welcome to my [blog]({% link _pages/blog.md %})!
+Welcome to the home page of my blog!

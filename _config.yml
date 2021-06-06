@@ -32,31 +32,35 @@ url: "https://jackielok.github.io" # the base hostname & protocol for your site,
 
 include: 
   - _pages
+  - blog
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 markdown: kramdown
 # kramdown:
    # math-engine: katex
  
 header_pages:
-  - _pages/blog.md
+  - blog/index.html
   - _pages/archives.md
 
 show_excerpts: true
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""  # an empty string here means all files in the project
       type: posts
     values:
       layout: post
       author: Jackie Lok
       permalink: /blog/:year/:month/:day/:title/
+
+paginate: 6
+paginate_path: "/blog/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -77,3 +81,5 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - Development
