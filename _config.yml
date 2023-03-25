@@ -21,11 +21,10 @@
 title: Home
 
 author: Jackie Lok
-# email: myemail@email.com
-# github_username: github
+email: jackie.lok@princeton.edu
 
 description: >- # this means to ignore newlines until "baseurl:"
-    Personal blog on encounters with interesting things, mathematics et al.
+  My personal webpage and occasional posts on encounters with interesting things and maths.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jackielok.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -40,11 +39,22 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Theme-specific settings
+minima:
+  # Generate social links in footer.
+  social_links:
+  #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jackie-lok" }
+    - { platform: github,         user_url: "https://github.com/jackielok" }
+
 markdown: kramdown
-# kramdown:
-   # math-engine: katex
+kramdown:
+   math-engine: mathjax
  
 header_pages:
+  # - _pages/research.md
+  - _pages/teaching.md
+  # - _pages/other.md
   - blog/index.html
   - _pages/archives.md
 
