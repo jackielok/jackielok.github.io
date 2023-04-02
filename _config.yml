@@ -23,8 +23,9 @@ title: Home
 author: Jackie Lok
 email: jackie.lok@princeton.edu
 
+# My personal webpage and occasional posts on encounters with interesting things and maths.
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal webpage and occasional posts on encounters with interesting things and maths.
+
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jackielok.github.io" # the base hostname & protocol for your site, e.g. http://example.com

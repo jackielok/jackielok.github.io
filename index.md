@@ -4,7 +4,7 @@ title: Hello World!
 ---
 
 <figure class="TextWrapRight" style="width:30%">
-<img src="{{ site.baseurl }}/assets/images/me_thumbnail.jpg" alt="Picture of me" style="width:100%"/>
+<a href="{{ site.baseurl }}/assets/images/me.jpg"><img src="{{ site.baseurl }}/assets/images/me_thumbnail.jpg" alt="Picture of me" style="width:100%"/></a>
 <!-- <figcaption align="center"><i>Credits:Caption goes here.</i></figcaption> -->
 </figure>
 
@@ -20,6 +20,4 @@ My main interests are in probability and its applications (particularly involvin
 
 You can find my [CV here]({{ site.baseurl }}/assets/files/JackieLokCV.pdf).
 
-## Other
-
-This web page was built using [Jekyll](https://jekyllrb.com/) and an adaptation of the [Minima](https://github.com/jekyll/minima) theme.
+Email: `jackie.lok@princeton.edu`
