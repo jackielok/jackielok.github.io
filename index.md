@@ -16,8 +16,6 @@ I am a PhD student at the [Department of Operations Research and Financial Engin
 
 I was an undergraduate at [UNSW Sydney](https://www.unsw.edu.au/), where I completed a Bachelor of Actuarial Studies (Co-op) and a Bachelor of Science (Honours) in mathematics under the supervision of [Catherine Greenhill](https://web.maths.unsw.edu.au/~csg/).
 
-My main interests are in probability and its applications (particularly involving high-dimensional/discrete probability and random matrices), randomised algorithms, and mathematical data science and statistics. In my research, I study the properties and behaviour of random mathematical structures and algorithms, and use these insights to develop tools and models that are supported by theoretical guarantees and allow us to better work and understand large-scale, complex data.
-
 You can find my [CV here]({{ site.baseurl }}/assets/files/JackieLokCV.pdf).
 
 Email: `jackie.lok@princeton.edu`

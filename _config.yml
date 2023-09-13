@@ -21,7 +21,7 @@
 title: Home
 
 author: Jackie Lok
-email: jackie.lok@princeton.edu
+email: #
 
 # My personal webpage and occasional posts on encounters with interesting things and maths.
 description: >- # this means to ignore newlines until "baseurl:"
@@ -44,7 +44,7 @@ plugins:
 minima:
   # Generate social links in footer.
   social_links:
-  #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=xzcHhC4AAAAJ" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jackie-lok" }
     - { platform: github,         user_url: "https://github.com/jackielok" }
 
@@ -53,7 +53,7 @@ kramdown:
    math-engine: mathjax
  
 header_pages:
-  # - _pages/research.md
+  - _pages/research.md
   - _pages/teaching.md
   # - _pages/other.md
   - blog/index.html

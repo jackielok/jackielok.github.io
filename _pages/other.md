@@ -1,11 +1,6 @@
 ---
 layout: default
-title: Research
-permalink: /research/
+title: Other
+permalink: /other/
 ---
-
-## Publications
-
-
-## Talks and Presentations
 
