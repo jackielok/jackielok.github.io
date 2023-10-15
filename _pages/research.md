@@ -12,7 +12,9 @@ My main interests are in high-dimensional and discrete probability, random matri
 
 ## Papers
 
-- **A subspace constrained randomized Kaczmarz method for structure or
-external knowledge exploitation**. Jackie Lok and Elizaveta Rebrova. Preprint, 2023. [arXiv: 2309.04889](https://arxiv.org/abs/2309.04889)
+- A subspace constrained randomized Kaczmarz method for structure or
+external knowledge exploitation. Jackie Lok and Elizaveta Rebrova. Preprint, 2023. [[arXiv]](https://arxiv.org/abs/2309.04889)
 
-[comment]: ## Talks and Presentations
+## Miscellaneous
+
+- Markov chains, mixing times, and cutoff (Honours thesis). [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis-MarkovChains.pdf)
