@@ -12,11 +12,16 @@ More specifically, my research interests include high-dimensional probability, r
 
 ## Papers
 
-- Roxanne He and Jackie Lok. "On Approximating the Potts Model with Contracting Glauber Dynamics". Preprint, 2024. [[arXiv]](https://arxiv.org/abs/2404.18778)
+- **On Approximating the Potts Model with Contracting Glauber Dynamics**\
+Roxanne He and Jackie Lok\
+Preprint, 2024. [[arXiv]](https://arxiv.org/abs/2404.18778)
 
-- Jackie Lok and Elizaveta Rebrova. "A subspace constrained randomized Kaczmarz method for structure or
-external knowledge exploitation". Preprint, 2023. [[arXiv]](https://arxiv.org/abs/2309.04889)
+- **A subspace constrained randomized Kaczmarz method for structure or
+external knowledge exploitation**\
+Jackie Lok and Elizaveta Rebrova\
+Preprint, 2023. [[arXiv]](https://arxiv.org/abs/2309.04889)
 
 ## Miscellaneous
 
-- Markov chains, mixing times, and cutoff (Honours thesis). [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis-MarkovChains.pdf)
+- **Markov chains, mixing times, and cutoff**\
+Undergraduate honours thesis. [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis-MarkovChains.pdf)
