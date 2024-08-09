@@ -12,7 +12,7 @@ title: Hello World!
 
 ## About
 
-I am a PhD student at the [Department of Operations Research and Financial Engineering](https://orfe.princeton.edu/) (ORFE) at [Princeton University](https://www.princeton.edu/), where I am advised by [Elizaveta Rebrova](https://erebrova.github.io/).
+I am a PhD student in the [Department of Operations Research and Financial Engineering](https://orfe.princeton.edu/) (ORFE) at [Princeton University](https://www.princeton.edu/), where I am advised by [Elizaveta Rebrova](https://erebrova.github.io/).
 
 I was an undergraduate at [UNSW Sydney](https://www.unsw.edu.au/), where I completed a Bachelor of Actuarial Studies (Co-op) in 2019, and a Bachelor of Science (Honours) in mathematics in 2020 under the supervision of [Catherine Greenhill](https://web.maths.unsw.edu.au/~csg/).
 
