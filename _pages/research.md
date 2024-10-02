@@ -8,7 +8,9 @@ permalink: /research/
 
 My research is broadly in the mathematics of data science. I study the properties and behaviour of random mathematical structures and algorithms, and aim to use these insights to develop tools and models that allow us to better work with and understand large-scale, complex data.
 
-More specifically, my research interests include high-dimensional probability, random matrices, randomised algorithms, and numerical linear algebra. I am also interested in the intersections of these areas with statistics, computer science, and machine learning.
+My research interests mainly lie at the intersection of probability, statistics and optimisation. More
+specifically, my interests include high-dimensional probability, random matrices, randomised algorithms,
+numerical linear algebra, and machine learning.
 
 ## Papers
 
