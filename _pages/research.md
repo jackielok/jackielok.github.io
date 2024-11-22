@@ -39,5 +39,12 @@ Undergraduate honours thesis [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis
 
 ## Presentations
 
-- NSF CompMath PI Meeting -- University of Washington, Seattle: “A Subspace Constrained
+- Conference on the Mathematical Theory of Deep Neural Networks (DeepMath 2024), University of Pennsylvania, Philadelphia: “Error dynamics of mini-batch gradient descent with random reshuffling for least squares”, November 2024
+[[poster]]({{ site.baseurl }}/assets/files/DeepMath2024_Batch_Poster.pdf)
+
+- CUNY Graduate Center Harmonic Analysis & PDE Seminar: “A subspace constrained randomized Kaczmarz method”, November 2024
+
+- SIAM Conference on Mathematics of Data Science (MDS24), Atlanta: “A Subspace Constrained Randomized Kaczmarz Method for Structure or External Knowledge Exploitation”, October 2024 (poster)
+
+- NSF CompMath PI Meeting, University of Washington, Seattle: “A Subspace Constrained
 Randomized Kaczmarz Method for Structure or External Knowledge Exploitation”, July 2024 [[poster]]({{ site.baseurl }}/assets/files/CompMathPI2024_SCRK_Poster.pdf)
