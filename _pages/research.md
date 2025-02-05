@@ -14,14 +14,14 @@ numerical linear algebra, and machine learning.
 
 ## Papers
 
+- **On Regularization via Early Stopping for Least Squares Regression**\
+with Rishi Sonthalia and Elizaveta Rebrova\
+Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2406.04425)
+
 - **Error dynamics of mini-batch gradient descent with random reshuffling for least squares regression**\
 with Rishi Sonthalia and Elizaveta Rebrova\
 36th International Conference on Algorithmic Learning Theory (ALT 2025), 2025 [[arXiv]](https://arxiv.org/abs/2406.03696)
 <!-- Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2406.03696) -->
-
-- **On Regularization via Early Stopping for Least Squares Regression**\
-with Rishi Sonthalia and Elizaveta Rebrova\
-Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2406.04425)
 
 - **On Approximating the Potts Model with Contracting Glauber Dynamics**\
 with Roxanne He\
