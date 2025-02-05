@@ -14,9 +14,10 @@ numerical linear algebra, and machine learning.
 
 ## Papers
 
-- **Discrete error dynamics of mini-batch gradient descent for least squares regression**\
+- **Error dynamics of mini-batch gradient descent with random reshuffling for least squares regression**\
 with Rishi Sonthalia and Elizaveta Rebrova\
-Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2406.03696)
+36th International Conference on Algorithmic Learning Theory (ALT 2025), 2025 [[arXiv]](https://arxiv.org/abs/2406.03696)
+<!-- Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2406.03696) -->
 
 - **On Regularization via Early Stopping for Least Squares Regression**\
 with Rishi Sonthalia and Elizaveta Rebrova\
@@ -29,10 +30,10 @@ Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2404.18778)
 - **A subspace constrained randomized Kaczmarz method for structure or
 external knowledge exploitation**\
 with Elizaveta Rebrova\
-*Linear Algebra and its Applications*, vol. 698, pp. 220--260 (2024) [[journal]](https://doi.org/10.1016/j.laa.2024.06.010) [[arXiv]](https://arxiv.org/abs/2309.04889)
+*Linear Algebra and its Applications*, vol. 698, pp. 220--260, 2024 [[journal]](https://doi.org/10.1016/j.laa.2024.06.010) [[arXiv]](https://arxiv.org/abs/2309.04889)
 <!-- Preprint, 2023 [[arXiv]](https://arxiv.org/abs/2309.04889) -->
 
-## Miscellaneous
+### Miscellaneous
 
 - **Markov chains, mixing times, and cutoff**\
 Undergraduate honours thesis [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis-MarkovChains.pdf)
@@ -44,7 +45,7 @@ Undergraduate honours thesis [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis
 
 - CUNY Graduate Center Harmonic Analysis & PDE Seminar: “A subspace constrained randomized Kaczmarz method”, November 2024
 
-- SIAM Conference on Mathematics of Data Science (MDS24), Atlanta: “A Subspace Constrained Randomized Kaczmarz Method for Structure or External Knowledge Exploitation”, October 2024 (poster)
+- SIAM Conference on Mathematics of Data Science (MDS24), Atlanta: “A Subspace Constrained Randomized Kaczmarz Method for Structure or External Knowledge Exploitation”, October 2024 [[poster]]({{ site.baseurl }}/assets/files/CompMathPI2024_SCRK_Poster.pdf)
 
 - NSF CompMath PI Meeting, University of Washington, Seattle: “A Subspace Constrained
 Randomized Kaczmarz Method for Structure or External Knowledge Exploitation”, July 2024 [[poster]]({{ site.baseurl }}/assets/files/CompMathPI2024_SCRK_Poster.pdf)
