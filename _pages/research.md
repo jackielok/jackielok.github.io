@@ -14,6 +14,10 @@ numerical linear algebra, and machine learning.
 
 ## Papers
 
+- **Subspace-constrained randomized coordinate descent for linear systems with good low-rank matrix approximations**\
+with Elizaveta Rebrova\
+Preprint, 2025 [[arXiv]](https://arxiv.org/abs/2506.09394)
+
 - **On Regularization via Early Stopping for Least Squares Regression**\
 with Rishi Sonthalia and Elizaveta Rebrova\
 Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2406.04425)
