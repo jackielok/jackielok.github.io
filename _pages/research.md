@@ -34,7 +34,7 @@ Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2404.18778)
 - **A subspace constrained randomized Kaczmarz method for structure or
 external knowledge exploitation**\
 with Elizaveta Rebrova\
-*Linear Algebra and its Applications*, vol. 698, pp. 220--260, 2024 [[journal]](https://doi.org/10.1016/j.laa.2024.06.010) [[arXiv]](https://arxiv.org/abs/2309.04889)
+Linear Algebra and its Applications, vol. 698, pp. 220--260, 2024 [[journal]](https://doi.org/10.1016/j.laa.2024.06.010) [[arXiv]](https://arxiv.org/abs/2309.04889)
 <!-- Preprint, 2023 [[arXiv]](https://arxiv.org/abs/2309.04889) -->
 
 ### Miscellaneous
