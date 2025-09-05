@@ -8,7 +8,8 @@ permalink: /teaching/
 
 **Princeton University**
 
-Assistant in Instruction (AI)
+Teaching Assistant (TA)
+- [ORF 405: Regression and Applied Time Series](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=008005) (Fall 2026)
 - [ORF 387: Networks](https://registrar.princeton.edu/course-offerings/course-details?term=1254&courseid=015450) (Spring 2025)
 - [ORF 526: Probability Theory](https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=008014) (Fall 2024)
 - [ORF 387: Networks](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=015450) (Spring 2024)

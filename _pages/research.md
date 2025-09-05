@@ -44,6 +44,8 @@ Undergraduate honours thesis [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis
 
 ## Presentations
 
+- The Third Joint SIAM/CAIMS Annual Meetings (AN25), Montréal, Canada: "Subspace-constrained Sketch-and-project Solvers for Linear Systems with Low-rank Structure", July 2025
+
 - The 36th International Conference on Algorithmic Learning Theory (ALT 2025), Milan, Italy: "Error dynamics of mini-batch gradient descent with random reshuffling for least squares regression", February 2025
 
 - Conference on the Mathematical Theory of Deep Neural Networks (DeepMath 2024), University of Pennsylvania, Philadelphia: "Error dynamics of mini-batch gradient descent with random reshuffling for least squares", November 2024
