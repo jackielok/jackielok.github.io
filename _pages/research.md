@@ -29,7 +29,8 @@ with Rishi Sonthalia and Elizaveta Rebrova\
 
 - **On Approximating the Potts Model with Contracting Glauber Dynamics**\
 with Roxanne He\
-Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2404.18778)
+To appear in Advances in Applied Probability, 2025+ [[arXiv]](https://arxiv.org/abs/2404.18778)
+<!-- Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2404.18778) -->
 
 - **A subspace constrained randomized Kaczmarz method for structure or
 external knowledge exploitation**\
@@ -45,6 +46,8 @@ Undergraduate honours thesis [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis
 ## Presentations
 
 - The Third Joint SIAM/CAIMS Annual Meetings (AN25), Montréal, Canada: "Subspace-constrained Sketch-and-project Solvers for Linear Systems with Low-rank Structure", July 2025
+
+- NLA group meeting, University of Oxford, UK: "Subspace-constrained sketch-and-project solvers for linear systems with low-rank structure", July 2025
 
 - The 36th International Conference on Algorithmic Learning Theory (ALT 2025), Milan, Italy: "Error dynamics of mini-batch gradient descent with random reshuffling for least squares regression", February 2025
 
