@@ -6,11 +6,7 @@ permalink: /research/
 
 ## Research
 
-My research is broadly in the mathematics of data science. I study the properties and behaviour of random mathematical structures and algorithms, and aim to use these insights to develop tools and models that allow us to better work with and understand large-scale, complex data.
-
-My research interests mainly lie at the intersection of probability, statistics and optimisation. More
-specifically, my interests include high-dimensional probability, random matrices, randomised algorithms,
-numerical linear algebra, and machine learning.
+My research interests broadly lie at the intersection of probability, statistics, and optimisation. I am interested in analyzing randomized algorithms in numerical linear algebra, machine learning, and data science, with a focus on developing theory and tools that allow us to better understand and work with large-scale or high-dimensional data.
 
 ## Papers
 
@@ -44,6 +40,8 @@ Linear Algebra and its Applications, vol. 698, pp. 220--260, 2024 [[journal]](ht
 Undergraduate honours thesis [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis-MarkovChains.pdf)
 
 ## Presentations
+
+- Simons Institute Workshop on Linear Systems and Eigenvalue Problems, UC Berkeley: "Subspace-constrained randomized coordinate descent for linear systems with good low-rank matrix approximations", October 2025 [[poster]]({{ site.baseurl }}/assets/files/Simons2025_SCRCD_Poster.pdf)
 
 - The Third Joint SIAM/CAIMS Annual Meetings (AN25), Montréal, Canada: "Subspace-constrained Sketch-and-project Solvers for Linear Systems with Low-rank Structure", July 2025
 
