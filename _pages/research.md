@@ -25,7 +25,7 @@ with Rishi Sonthalia and Elizaveta Rebrova\
 
 - **On Approximating the Potts Model with Contracting Glauber Dynamics**\
 with Roxanne He\
-To appear in Advances in Applied Probability, 2025+ [[arXiv]](https://arxiv.org/abs/2404.18778)
+To appear in Advances in Applied Probability, 2025+ [[journal]](https://doi.org/10.1017/apr.2025.10036) [[arXiv]](https://arxiv.org/abs/2404.18778)
 <!-- Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2404.18778) -->
 
 - **A subspace constrained randomized Kaczmarz method for structure or
@@ -40,6 +40,9 @@ Linear Algebra and its Applications, vol. 698, pp. 220--260, 2024 [[journal]](ht
 Undergraduate honours thesis [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis-MarkovChains.pdf)
 
 ## Presentations
+
+- 2025 Mid-Atlantic Numerical Analysis Day, Temple University: "Sketch-and-Project Solvers for Linear
+Systems with Low-Rank Structure", November 2025
 
 - Simons Institute Workshop on Linear Systems and Eigenvalue Problems, UC Berkeley: "Subspace-constrained randomized coordinate descent for linear systems with good low-rank matrix approximations", October 2025 [[poster]]({{ site.baseurl }}/assets/files/Simons2025_SCRCD_Poster.pdf)
 
