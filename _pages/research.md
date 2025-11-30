@@ -45,9 +45,9 @@ Undergraduate honours thesis [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis
 
 ## Presentations
 
-- 2026 Joint Mathematics Meetings, Washington D.C.: "Efficient linear solvers for approximately low-rank linear systems", January 2026
+- Joint Mathematics Meetings (JMM 2026), Washington DC: "Efficient linear solvers for approximately low-rank linear systems", January 2026
 
-- 2025 Mid-Atlantic Numerical Analysis Day, Temple University: "Sketch-and-Project Solvers for Linear
+- Mid-Atlantic Numerical Analysis Day, Temple University: "Sketch-and-Project Solvers for Linear
 Systems with Low-Rank Structure", November 2025
 
 - Simons Institute Workshop on Linear Systems and Eigenvalue Problems, UC Berkeley: "Subspace-constrained randomized coordinate descent for linear systems with good low-rank matrix approximations", October 2025 [[poster]]({{ site.baseurl }}/assets/files/Simons2025_SCRCD_Poster.pdf)
