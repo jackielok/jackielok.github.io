@@ -10,6 +10,10 @@ My research interests broadly lie at the intersection of probability, statistics
 
 ## Papers
 
+- **Beyond Expectation: Concentration Inequalities for Randomized Iterative Methods**\
+with Toby Anderson, Max Collins, Jamie Haddock, and Elizaveta Rebrova\
+Preprint, 2025 [[arXiv]](https://arxiv.org/abs/2511.20877)
+
 - **Subspace-constrained randomized coordinate descent for linear systems with good low-rank matrix approximations**\
 with Elizaveta Rebrova\
 Preprint, 2025 [[arXiv]](https://arxiv.org/abs/2506.09394)
@@ -40,6 +44,8 @@ Linear Algebra and its Applications, vol. 698, pp. 220--260, 2024 [[journal]](ht
 Undergraduate honours thesis [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis-MarkovChains.pdf)
 
 ## Presentations
+
+- 2026 Joint Mathematics Meetings, Washington D.C.: "Efficient linear solvers for approximately low-rank linear systems", January 2026
 
 - 2025 Mid-Atlantic Numerical Analysis Day, Temple University: "Sketch-and-Project Solvers for Linear
 Systems with Low-Rank Structure", November 2025
