@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Research
 
-My research interests broadly lie at the intersection of probability, statistics, and optimisation. I am interested in analyzing randomized algorithms in numerical linear algebra, machine learning, and data science, with a focus on developing theory and tools that allow us to better understand and work with large-scale or high-dimensional data.
+My research interests broadly lie at the intersection of probability, statistics, and optimization. I am interested in analyzing randomized algorithms in numerical linear algebra, machine learning, and data science, with a focus on developing theory and tools that allow us to better understand and work with large-scale or high-dimensional data.
 
 ## Papers
 
@@ -16,7 +16,8 @@ Preprint, 2025 [[arXiv]](https://arxiv.org/abs/2511.20877)
 
 - **Subspace-constrained randomized coordinate descent for linear systems with good low-rank matrix approximations**\
 with Elizaveta Rebrova\
-Preprint, 2025 [[arXiv]](https://arxiv.org/abs/2506.09394)
+To appear in SIAM Journal on Matrix Analysis and Applications, 2026+ [[arXiv]](https://arxiv.org/abs/2506.09394)
+<!-- Preprint, 2025 [[arXiv]](https://arxiv.org/abs/2506.09394) -->
 
 - **On Regularization via Early Stopping for Least Squares Regression**\
 with Rishi Sonthalia and Elizaveta Rebrova\
@@ -27,7 +28,7 @@ with Rishi Sonthalia and Elizaveta Rebrova\
 36th International Conference on Algorithmic Learning Theory (ALT 2025), 2025 [[proceedings]](https://proceedings.mlr.press/v272/lok25a.html) [[arXiv]](https://arxiv.org/abs/2406.03696)
 <!-- Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2406.03696) -->
 
-- **On Approximating the Potts Model with Contracting Glauber Dynamics**\
+- **On approximating the Potts Model with contracting Glauber dynamics**\
 with Roxanne He\
 To appear in Advances in Applied Probability, 2025+ [[journal]](https://doi.org/10.1017/apr.2025.10036) [[arXiv]](https://arxiv.org/abs/2404.18778)
 <!-- Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2404.18778) -->
@@ -44,6 +45,10 @@ Linear Algebra and its Applications, vol. 698, pp. 220--260, 2024 [[journal]](ht
 Undergraduate honours thesis [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis-MarkovChains.pdf)
 
 ## Presentations
+
+- AMS Postdoc Seminar, Johns Hopkins University: "Subspace-constrained sketch-and-project solvers for linear systems with approximately low-rank structure or external knowledge", April 2026 (virtual)
+
+- ICERM Workshop on Randomized Numerical Linear Algebra, Providence, RI: "Subspace-constrained randomized coordinate descent for linear systems with good low-rank matrix approximations", February 2026 [[poster]]({{ site.baseurl }}/assets/files/Simons2025_SCRCD_Poster.pdf)
 
 - Joint Mathematics Meetings (JMM 2026), Washington DC: "Efficient linear solvers for approximately low-rank linear systems", January 2026
 
