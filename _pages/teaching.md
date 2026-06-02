@@ -34,7 +34,7 @@ Academic Tutor
 
 ## Mentoring
 
-* [McGraw Graduate Teaching Fellow](https://mcgraw.princeton.edu/about/meet-our-staff/graduate-teaching-fellows), *Princeton University* (2024--)
+* [McGraw Graduate Teaching Fellow](https://mcgraw.princeton.edu/about/meet-our-staff/graduate-teaching-fellows), *Princeton University* (2024--2026)
 * [ReMatch mentor](https://undergraduateresearch.princeton.edu/programs/rematch), *Princeton University* (2023)
 * [ORFE Senior Thesis Writer's Group](https://orfe.princeton.edu/undergraduate/stwg) co-leader, *Princeton University* (2022--2023)
 * Drop-in Centre tutor, *School of Mathematics and Statistics, UNSW Sydney* (2020)

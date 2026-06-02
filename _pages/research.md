@@ -41,6 +41,9 @@ Linear Algebra and its Applications, vol. 698, pp. 220--260, 2024 [[journal]](ht
 
 ### Miscellaneous
 
+- **Randomized Iterative Algorithms in Numerical Linear Algebra**\
+PhD thesis [[pdf]]({{ site.baseurl }}/assets/files/Lok_Jackie_Thesis.pdf)
+
 - **Markov chains, mixing times, and cutoff**\
 Undergraduate honours thesis [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis-MarkovChains.pdf)
 

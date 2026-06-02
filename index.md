@@ -12,10 +12,10 @@ title: Hello World!
 
 ## About
 
-I am a PhD student in the [Department of Operations Research and Financial Engineering](https://orfe.princeton.edu/) (ORFE) at [Princeton University](https://www.princeton.edu/), where I am advised by [Elizaveta Rebrova](https://erebrova.github.io/).
+I will be starting as a Peng Tsu Ann Assistant Professor in the [Department of Mathematics](https://www.math.nus.edu.sg/) at the [National University of Singapore](https://nus.edu.sg/) (NUS) in July 2026.
 
-I was an undergraduate at [UNSW Sydney](https://www.unsw.edu.au/), where I completed a Bachelor of Actuarial Studies (Co-op) in 2019, and a Bachelor of Science (Honours) in mathematics in 2020 under the supervision of [Catherine Greenhill](https://web.maths.unsw.edu.au/~csg/).
+I completed my PhD in the [Department of Operations Research and Financial Engineering](https://orfe.princeton.edu/) (ORFE) at [Princeton University](https://www.princeton.edu/) in 2026, where I was advised by [Elizaveta Rebrova](https://erebrova.github.io/). Before that, I was an undergraduate at [UNSW Sydney](https://www.unsw.edu.au/), where I completed a Bachelor of Science (Honours) in mathematics in 2020 under the supervision of [Catherine Greenhill](https://web.maths.unsw.edu.au/~csg/), and a Bachelor of Actuarial Studies (Co-op) in 2019.
 
 You can find my [CV here]({{ site.baseurl }}/assets/files/JackieLokCV.pdf).
 
-Email: `jackie.lok@princeton.edu`
+Email: `jackie.ky.lok@gmail.com`
