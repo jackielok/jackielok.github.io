@@ -30,7 +30,7 @@ with Rishi Sonthalia and Elizaveta Rebrova\
 
 - **On approximating the Potts Model with contracting Glauber dynamics**\
 with Roxanne He\
-To appear in Advances in Applied Probability, 2025+ [[journal]](https://doi.org/10.1017/apr.2025.10036) [[arXiv]](https://arxiv.org/abs/2404.18778)
+Advances in Applied Probability, vol. 58, no. 2, pp. 812--849, 2026 [[journal]](https://doi.org/10.1017/apr.2025.10036) [[arXiv]](https://arxiv.org/abs/2404.18778)
 <!-- Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2404.18778) -->
 
 - **A subspace constrained randomized Kaczmarz method for structure or
