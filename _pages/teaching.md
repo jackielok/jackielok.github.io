@@ -6,6 +6,11 @@ permalink: /teaching/
 
 ## Teaching
 
+**National University of Singapore (NUS)**
+
+Lecturer
+- [MA4270: Data Modelling and Computation](https://nusmods.com/courses/MA4270/data-modelling-and-computation) (Semester 1 2026/27)
+
 **Princeton University**
 
 Teaching Assistant (TA)
