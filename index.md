@@ -4,7 +4,7 @@ title: Hello World!
 ---
 
 <figure class="TextWrapRight" style="width:30%">
-<a href="{{ site.baseurl }}/assets/images/me.jpg"><img src="{{ site.baseurl }}/assets/images/me_thumbnail.jpg" alt="Picture of me" style="width:100%"/></a>
+<a href="{{ site.baseurl }}/assets/images/me2.jpg"><img src="{{ site.baseurl }}/assets/images/me2_thumbnail.jpg" alt="Picture of me" style="width:100%"/></a>
 <!-- <figcaption align="center"><i>Credits:Caption goes here.</i></figcaption> -->
 </figure>
 

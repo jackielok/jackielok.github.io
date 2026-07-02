@@ -31,3 +31,7 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "webrick", "~> 1.8"
+
+gem "csv", "~> 3.3"
+
+gem "bigdecimal", "~> 4.1"
