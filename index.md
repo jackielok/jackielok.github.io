@@ -18,4 +18,4 @@ I completed my PhD in the [Department of Operations Research and Financial Engin
 
 You can find my [CV here]({{ site.baseurl }}/assets/files/JackieLokCV.pdf).
 
-Email: `jackie.ky.lok@gmail.com`
+Email: `jackielok@nus.edu.sg`
