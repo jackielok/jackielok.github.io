@@ -16,7 +16,7 @@ Preprint, 2025 [[arXiv]](https://arxiv.org/abs/2511.20877)
 
 - **Subspace-constrained randomized coordinate descent for linear systems with good low-rank matrix approximations**\
 with Elizaveta Rebrova\
-To appear in SIAM Journal on Matrix Analysis and Applications, 2026+ [[arXiv]](https://arxiv.org/abs/2506.09394)
+SIAM Journal on Matrix Analysis and Applications, vol. 47, no. 3, pp. 1495--1529, 2026 [[journal]](https://doi.org/10.1137/25M177446X) [[arXiv]](https://arxiv.org/abs/2506.09394)
 <!-- Preprint, 2025 [[arXiv]](https://arxiv.org/abs/2506.09394) -->
 
 - **On Regularization via Early Stopping for Least Squares Regression**\
