@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Research
 
-My research interests broadly lie at the intersection of probability, statistics, and optimization. I am interested in analyzing randomized algorithms in numerical linear algebra, machine learning, and data science, with a focus on developing theory and tools that allow us to better understand and work with large-scale or high-dimensional data.
+My research is primarily on randomised numerical methods, with a focus on the design and analysis of efficient algorithms for large-scale computational problems in data science and machine learning. My work draws on ideas from numerical linear algebra, high-dimensional probability, and stochastic optimisation.
 
 ## Papers
 
@@ -33,8 +33,7 @@ with Roxanne He\
 Advances in Applied Probability, vol. 58, no. 2, pp. 812--849, 2026 [[journal]](https://doi.org/10.1017/apr.2025.10036) [[arXiv]](https://arxiv.org/abs/2404.18778)
 <!-- Preprint, 2024 [[arXiv]](https://arxiv.org/abs/2404.18778) -->
 
-- **A subspace constrained randomized Kaczmarz method for structure or
-external knowledge exploitation**\
+- **A subspace constrained randomized Kaczmarz method for structure or external knowledge exploitation**\
 with Elizaveta Rebrova\
 Linear Algebra and its Applications, vol. 698, pp. 220--260, 2024 [[journal]](https://doi.org/10.1016/j.laa.2024.06.010) [[arXiv]](https://arxiv.org/abs/2309.04889)
 <!-- Preprint, 2023 [[arXiv]](https://arxiv.org/abs/2309.04889) -->
@@ -48,6 +47,8 @@ PhD thesis [[pdf]]({{ site.baseurl }}/assets/files/Lok_Jackie_Thesis.pdf)
 Undergraduate honours thesis [[pdf]]({{ site.baseurl }}/assets/files/JLok-Thesis-MarkovChains.pdf)
 
 ## Presentations
+
+- Scientific Computing and Machine Learning Seminar, National University of Singapore: "Analysis of a randomly sparsified power method", September 2026
 
 - AMS Postdoc Seminar, Johns Hopkins University: "Subspace-constrained sketch-and-project solvers for linear systems with approximately low-rank structure or external knowledge", April 2026 (virtual)
 

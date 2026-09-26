@@ -9,6 +9,7 @@ permalink: /teaching/
 **National University of Singapore (NUS)**
 
 Lecturer
+- [MA2213: Numerical Analysis I](https://nusmods.com/courses/MA2213/numerical-analysis-i) (Semester 2 2026/27)
 - [MA4270: Data Modelling and Computation](https://nusmods.com/courses/MA4270/data-modelling-and-computation) (Semester 1 2026/27)
 
 **Princeton University**
