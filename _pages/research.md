@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Research
 
-My research is primarily on randomised numerical methods, with a focus on the design and analysis of efficient algorithms for large-scale computational problems in data science and machine learning. My work draws on ideas from numerical linear algebra, high-dimensional probability, and stochastic optimisation.
+My research is in computational mathematics, with a focus on randomised numerical methods. I am particularly interested in the design and analysis of efficient algorithms for large-scale computational problems, motivated by applications in data science, machine learning, and scientific computing. My work draws on ideas from numerical linear algebra, high-dimensional probability, and stochastic optimisation.
 
 ## Papers
 
